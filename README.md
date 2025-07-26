@@ -1,1 +1,1 @@
-<img width="1280" height="340" alt="gitihub_heroo" src="https://github.com/user-attachments/assets/329ac29b-bebe-4c5f-aa8b-bd677bbd0f88" />
+<img width="1280" height="340" alt="githubhero" src="https://github.com/user-attachments/assets/bae39f9a-a55c-4e69-97d8-c198dab8a621" />
